@@ -28,7 +28,7 @@ class: impact
 
 ----
 
-**Folien:** https://jbaiter.de/iiif_dhberlin
+**Folien:** https://jbaiter.github.io/iiif_dhberlin
 
 **IIIF-Spielwiese**: https://app.digitale-sammlungen.de/demo/iiif
 
